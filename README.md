@@ -132,7 +132,7 @@ linux-bash-scripts/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-bash-scripts.git
+git clone https://github.com/tanayjdev/linux-bash-scripts.git
 
 cd linux-bash-scripts
 ```
